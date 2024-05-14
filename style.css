@@ -1,0 +1,9 @@
+
+#opala {width: 100%;}
+#opala {border-color: black;
+        border-style: double;
+        border-width: 4px;
+}
+    body{background-color: whitesmoke;}
+    .parte01 {background-color:rgb(197, 116, 22) }
+    .parte02 {background-color: rgb(71, 71, 71);}
